@@ -10,7 +10,7 @@ import styles from '../styles/Home.module.css'
 const Home: NextPage = () => {
   return (
     <>
-    <p>Hej</p>
+    <p>Hej tjabba tjenixen</p>
     <Map />
     </>
   )
